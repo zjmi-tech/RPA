@@ -1,0 +1,3 @@
+﻿{"ts":"16:49:14.98","ctx":"Action","action":"ctx.log","params":["All running instances of process 'saplogon.exe' have been killed.",0],"verb":"LOGMESS","parentId":129}
+{"ts":"16:49:14.182","ctx":"Action","action":"ctx.log","params":["No found running instance of process 'EXCEL.EXE'.",3],"verb":"LOGMESS","parentId":131}
+{"ts":"16:49:19.239","ctx":"Action","action":"ctx.log","params":["No excel found, create a new one",0],"verb":"LOGMESS","parentId":135}

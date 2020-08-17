@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Context Id="153df286-49d1-4579-a60c-1b22c35024b4">
+  <Entities>
+    <Entity Id="cb163dca-2909-41ac-af0a-6b8fbd152a8c" Name="SAPLogon760Data" IsArray="False">
+      <Entities>
+        <Entity Id="d07c1b27-1aca-4add-9676-e9b23bd38bb2" Name="pSAPData" IsArray="False">
+          <Entities>
+            <Entity Id="d83f5c57-9bc5-4a8f-91eb-0ec9a9130e20" Name="edClient" IsArray="False" />
+            <Entity Id="725e9f4e-251d-4fdb-92f4-785cc74f9cfe" Name="edUser" IsArray="False" />
+            <Entity Id="311f09ac-d759-4cb8-a195-0646940cca92" Name="oPassword" IsArray="False" />
+            <Entity Id="76956fea-f310-492f-a98b-03bced8c90d0" Name="IP" IsArray="False" />
+            <Entity Id="f66006cc-0fe3-4dda-85e1-3a5017d5f968" Name="SID" IsArray="False" />
+          </Entities>
+        </Entity>
+        <Entity Id="af9c74cf-1479-4bc0-b2f1-f21eca922b61" Name="pSAPTCodeData" IsArray="False">
+          <Entities>
+            <Entity Id="148c6887-c8f4-42d0-af21-fd2c8641cee0" Name="oGuiOkCodeField" IsArray="False" />
+          </Entities>
+        </Entity>
+        <Entity Id="dfc1286f-3560-4be6-9b75-0914418bbd02" Name="pFirstData" IsArray="False">
+          <Entities>
+            <Entity Id="eb8222c3-72b9-43cc-94a7-9e8c9f4fd250" Name="edVoucherNo" IsArray="False" />
+            <Entity Id="9910251f-399c-4579-9ae8-f361168419a7" Name="edCompanyCode" IsArray="False" />
+            <Entity Id="8d749086-87e0-4746-80f5-ced9f1bedd94" Name="edCertificateYear" IsArray="False" />
+            <Entity Id="0951bfcc-dbb9-44c6-98f6-0944c1e52274" Name="edHigh" IsArray="False" />
+            <Entity Id="377c510b-ec88-4230-8c95-aef3d01d52f4" Name="edLow" IsArray="False" />
+          </Entities>
+        </Entity>
+        <Entity Id="f76ceada-0f82-4270-ad7e-55c4e2ff1c9a" Name="pThirdData" IsArray="False">
+          <Entities>
+            <Entity Id="fb82a28b-1043-4326-98e4-72a7a2eeb7d0" Name="edPassDate" IsArray="False" />
+            <Entity Id="c2198d58-d61b-4397-b568-50d05e941af8" Name="oGuiOkCodeField" IsArray="False" />
+          </Entities>
+        </Entity>
+        <Entity Id="8acb330c-bb70-49fb-aa80-238df03c48be" Name="pSecondData" IsArray="False">
+          <Entities>
+            <Entity Id="58a52d2c-19a1-4b10-8ad1-1a2dd1ebe44e" Name="oGuiOkCodeField" IsArray="False" />
+          </Entities>
+        </Entity>
+      </Entities>
+    </Entity>
+  </Entities>
+</Context>

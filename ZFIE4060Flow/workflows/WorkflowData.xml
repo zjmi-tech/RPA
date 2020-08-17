@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WORKFLOWDATA>
+	<FOLDER Name="SAPLogon760Data" CtxtId="cb163dca-2909-41ac-af0a-6b8fbd152a8c" IsIndexed="N">
+		<FOLDER Name="pSAPData" CtxtId="d07c1b27-1aca-4add-9676-e9b23bd38bb2" IsIndexed="N">
+			<ITEM Name="edClient" CtxtId="d83f5c57-9bc5-4a8f-91eb-0ec9a9130e20" IsIndexed="N" />
+			<ITEM Name="edUser" CtxtId="725e9f4e-251d-4fdb-92f4-785cc74f9cfe" IsIndexed="N" />
+			<ITEM Name="oPassword" CtxtId="311f09ac-d759-4cb8-a195-0646940cca92" IsIndexed="N" />
+			<ITEM Name="IP" CtxtId="76956fea-f310-492f-a98b-03bced8c90d0" IsIndexed="N" />
+			<ITEM Name="SID" CtxtId="f66006cc-0fe3-4dda-85e1-3a5017d5f968" IsIndexed="N" />
+		</FOLDER>
+		<FOLDER Name="pSAPTCodeData" CtxtId="af9c74cf-1479-4bc0-b2f1-f21eca922b61" IsIndexed="N">
+			<ITEM Name="oGuiOkCodeField" CtxtId="148c6887-c8f4-42d0-af21-fd2c8641cee0" IsIndexed="N" />
+		</FOLDER>
+		<FOLDER Name="pFirstData" CtxtId="dfc1286f-3560-4be6-9b75-0914418bbd02" IsIndexed="N">
+			<ITEM Name="edVoucherNo" CtxtId="eb8222c3-72b9-43cc-94a7-9e8c9f4fd250" IsIndexed="N" />
+			<ITEM Name="edCompanyCode" CtxtId="9910251f-399c-4579-9ae8-f361168419a7" IsIndexed="N" />
+			<ITEM Name="edCertificateYear" CtxtId="8d749086-87e0-4746-80f5-ced9f1bedd94" IsIndexed="N" />
+			<ITEM Name="edHigh" CtxtId="0951bfcc-dbb9-44c6-98f6-0944c1e52274" IsIndexed="N" />
+			<ITEM Name="edLow" CtxtId="377c510b-ec88-4230-8c95-aef3d01d52f4" IsIndexed="N" />
+		</FOLDER>
+		<FOLDER Name="pThirdData" CtxtId="f76ceada-0f82-4270-ad7e-55c4e2ff1c9a" IsIndexed="N">
+			<ITEM Name="edPassDate" CtxtId="fb82a28b-1043-4326-98e4-72a7a2eeb7d0" IsIndexed="N" />
+			<ITEM Name="oGuiOkCodeField" CtxtId="c2198d58-d61b-4397-b568-50d05e941af8" IsIndexed="N" />
+		</FOLDER>
+		<FOLDER Name="pSecondData" CtxtId="8acb330c-bb70-49fb-aa80-238df03c48be" IsIndexed="N">
+			<ITEM Name="oGuiOkCodeField" CtxtId="58a52d2c-19a1-4b10-8ad1-1a2dd1ebe44e" IsIndexed="N" />
+		</FOLDER>
+	</FOLDER>
+</WORKFLOWDATA>

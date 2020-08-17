@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+	<Identification>
+		<Version Value="2.0.2.131"/>
+	</Identification>
+	<Properties>
+		<Property Name="projectFile" Value="ZFIE4060Flow.debug.psc"/>
+		<Property Name="projectVersion" Value="3.2"/>
+		<Property Name="projectName" Value="ZFIE4060Flow"/>
+		<Property Name="projectId" Value="c799270e-62ac-4a37-8029-b0a40b0ac657"/>
+		<Property Name="projectDate" Value="14/08/2020"/>
+		<Property Name="projectLabel" Value="ZFIE4060 Flow"/>
+		<Property Name="projectClient" Value="SAP"/>
+		<Property Name="licenceURL" Value=""/>
+		<Property Name="archiveFile" Value=""/>
+		<Property Name="productVersion" Value="2.0.2.131"/>
+		<Property Name="sdkVersion" Value="2.0.2.131"/>
+		<Property Name="exportDate" Value="14/8/2020"/>
+		<Property Name="IsTrial" Value="False"/>
+		<Property Name="validity" Value=""/>
+		<Property Name="cyphering" Value="0"/>
+		<Property Name="compression" Value="1"/>
+	</Properties>
+	<Properties Name="scenario0">
+		<Property Name="appliName" Value="GLOBAL" Type="1"/>
+		<Property Name="scenario" Value="newWork" Type="1"/>
+		<Property Name="name" Value="" Type="1"/>
+		<Property Name="id" Value="76930333-47f8-4d2d-a650-e2bf153e292d" Type="1"/>
+		<Property Name="timeout" Value="60000" Type="1"/>
+		<Property Name="task" Value="1" Type="1"/>
+		<Property Name="contextRoot" Value="" Type="1"/>
+		<Property Name="input" Value="" Type="1"/>
+		<Property Name="output" Value="" Type="1"/>
+	</Properties>
+	<Keys Name="scenario0">
+	</Keys>
+	<Properties Name="authentication">
+		<Property Name="result" Value="MIIBJwYJKoZIhvcNAQcCoIIBGDCCARQCAQExDzANBgkqhkiG9w0BAQUFADAvBgkq
+hkiG9w0BBwGgIgQgQwB0AHgAdABEAGUAZgBhAHUAbAB0AE0AYQByAGsAAAAxgcww
+gckCAQEwJDAcMRowGAYDVQQDExFOTyBDRVJUIFNJR05BVFVSRQIEEjRWeDANBgkq
+hkiG9w0BAQUFADAMBggqhkiG9w0DBAUABIGAsGMbKfSI/zZ/A7D1w9u7ZlyUZmWl
+jcQmITUqzW2R4znC91FVmAn6teRvo+X6svpHJW/E5U0wjdd0oBXldbAGb5lRj01M
+c57PqJy0CCc1JX4D3jG4S+MP0jmeXVz5aFeNsUC+YlWa4cCs4Up8usn5/+vpV3PX
+tpMtUGjSGjvzHYY=
+" Type="1"/>
+	</Properties>
+	<Keys Name="authentication">
+	</Keys>
+	<UpdatePackages>
+	</UpdatePackages>
+	<KeyNames Value="" Type="32771"/>
+	<KeyContent Value="" Type="32771"/>
+	<KeyProps Value="1befbd3f2111db1c1fe5e09380c10b8a" Type="32771"/>
+</doc>

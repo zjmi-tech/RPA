@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+	<Identification>
+		<Version Value="2.0.2.131"/>
+	</Identification>
+	<Properties>
+		<Property Name="projectFile" Value="ZFIE4060Flow.debug.psc"/>
+		<Property Name="projectVersion" Value="3.1"/>
+		<Property Name="projectName" Value="ZFIE4060Flow"/>
+		<Property Name="projectId" Value="c799270e-62ac-4a37-8029-b0a40b0ac657"/>
+		<Property Name="projectDate" Value="12/08/2020"/>
+		<Property Name="projectLabel" Value="ZFIE4060 Flow"/>
+		<Property Name="projectClient" Value="SAP"/>
+		<Property Name="licenceURL" Value=""/>
+		<Property Name="archiveFile" Value="ZFIE4060Flow.zip"/>
+		<Property Name="productVersion" Value="2.0.2.131"/>
+		<Property Name="sdkVersion" Value="2.0.2.131"/>
+		<Property Name="exportDate" Value="14/8/2020"/>
+		<Property Name="IsTrial" Value="False"/>
+		<Property Name="validity" Value=""/>
+		<Property Name="cyphering" Value="0"/>
+		<Property Name="compression" Value="1"/>
+	</Properties>
+	<Properties Name="scenario0">
+		<Property Name="appliName" Value="GLOBAL" Type="1"/>
+		<Property Name="scenario" Value="newWork" Type="1"/>
+		<Property Name="name" Value="" Type="1"/>
+		<Property Name="id" Value="76930333-47f8-4d2d-a650-e2bf153e292d" Type="1"/>
+		<Property Name="timeout" Value="60000" Type="1"/>
+		<Property Name="task" Value="1" Type="1"/>
+		<Property Name="contextRoot" Value="" Type="1"/>
+		<Property Name="input" Value="" Type="1"/>
+		<Property Name="output" Value="" Type="1"/>
+	</Properties>
+	<Keys Name="scenario0">
+	</Keys>
+	<UpdatePackages>
+	</UpdatePackages>
+	<KeyNames Value="674cfc3301fd8f0646117cfb00db2788" Type="32771"/>
+	<KeyContent Value="d32951070f56128de92bb2023c492d7a" Type="32771"/>
+	<KeyProps Value="435234cced59877a3656d16ea7761290" Type="32771"/>
+</doc>

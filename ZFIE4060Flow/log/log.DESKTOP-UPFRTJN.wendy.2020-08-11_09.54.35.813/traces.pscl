@@ -1,0 +1,2 @@
+﻿{"ts":"09:54:42.494","ctx":"Action","action":"ctx.log","params":["No found running instance of process 'saplogon.exe'.",3],"verb":"LOGMESS","parentId":100}
+{"ts":"09:54:48.644","ctx":"Action","action":"ctx.log","params":["All running instances of process 'saplogon.exe' have been killed.",0],"verb":"LOGMESS","parentId":153}
